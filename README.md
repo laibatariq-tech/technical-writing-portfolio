@@ -10,7 +10,7 @@ Welcome to my professional technical writing portfolio. I specialize in transfor
 
 ## Featured Projects
 
-*  https://docs.google.com/document/d/1UjMVi2zoSyAErlO_CZJLwavCMctWlR4gYMYGH3j1unw/edit?usp=drivesdk  (./How%20to%20Create%20a%20Google%20Account%20on%20Mobile.pdf) - A comprehensive step-by-step guide detailing the account content creation.
+*  https://drive.google.com/file/d/128-dIVbrwiH3Ncz_TbrkoLFKMOhU0-B1/view?usp=drivesdk  (./How%20to%20Create%20a%20Google%20Account%20on%20Mobile.pdf) - A comprehensive step-by-step guide detailing the account content creation.
 *
 
 
