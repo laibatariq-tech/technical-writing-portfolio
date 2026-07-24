@@ -10,7 +10,7 @@ Welcome to my professional technical writing portfolio. I specialize in transfor
 
 ## Featured Projects
 
-* 📄 [User Manual: How to Create a Google Account on Mobile](./How%20to%20Create%20a%20Google%20Account%20on%20Mobile.pdf) - A comprehensive step-by-step guide detailing the account creation process.
+* 📄 [User Manual:  https://drive.google.com/file/d/128-dIVbrwiH3Ncz_TbrkoLFKMOhU0-B1/view?usp=drivesdk (./How%20to%20Create%20a%20Google%20Account%20on%20Mobile.pdf) - A comprehensive step-by-step guide detailing the account creation process.
 
 ## Learning Roadmap (Currently Expanding)
 * Advanced Technical Communication Tools
