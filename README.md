@@ -9,14 +9,13 @@ Welcome to my professional technical writing portfolio. I specialize in transfor
 * **Core Skills:** Audience Analysis, Visual Markups & Screenshots, and Markdown Writing.
 
 ## Featured Projects
+* 📄 [User Manual (Google Account Creation)](https://google.com) - A comprehensive step-by-step guide detailing the complete account creation process on mobile devices.
+* ⚡ [Quick Start Guide (Instagram Login)](https://google.com) - A concise, visually structured onboarding guide to help new users quickly log into Instagram on mobile.
+* 🛠️ [How-To Tutorial (WhatsApp Status Setup)](https://google.com) - A practical, task-oriented technical tutorial walking users through updating and managing their WhatsApp status.
+* ❓ [Frequently Asked Questions (FAQs)](https://google.com) - A curated self-service knowledge base resolving common user queries and troubleshooting frequent issues.
 
-*  https://drive.google.com/file/d/128-dIVbrwiH3Ncz_TbrkoLFKMOhU0-B1/view?usp=drivesdk  (./How%20to%20Create%20a%20Google%20Account%20on%20Mobile.pdf) - A comprehensive step-by-step guide detailing the account content creation.
-* 
-https://docs.google.com/document/d/1UjMVi2zoSyAErlO_CZJLwavCMctWlR4gYMYGH3j1unw/edit?usp=drivesdk (./how to login to Instagram on mobile.pdf) step by step quick start guide 
-*
-https://drive.google.com/file/d/1Eq_Sb0D5q63uqF1o3OJwnEnJlrCdXiUs/view?usp=drivesdk (. / WhatsApp py status kesy lgayn) tutorial how to .pdf
-*
-https://drive.google.com/file/d/1jVSSr-lke28hL2xasJTYPOcl0s8ztC1W/view?usp=drivesdk (./ frequently asked question .pdf)
+
+
 ## Learning Roadmap (Currently Expanding)
 * Advanced Technical Communication Tools
 * API & Developer Documentation
